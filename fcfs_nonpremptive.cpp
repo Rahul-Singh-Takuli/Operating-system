@@ -78,8 +78,8 @@ int main()
     //calculate avg tat and avg wt
     tat=tat/n;
     wt=wt/n;
-    printf("\nAverage TAT:- %0.2f",tat);
-    printf("\nAverage Wt:-  %0.2f",wt);
+    cout<<"\nAverage TAT:-"<<tat;
+    cout<<"\nAverage Wt:-"<<wt;
 
     cout<<endl;
     return 0;
